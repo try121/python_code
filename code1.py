@@ -1,3 +1,2 @@
 #!/bin/python
-
-print "World"
+print "Hello World"
